@@ -1,0 +1,23 @@
+- Add different colored badges
+    -> Zufriedenheit (NAJA / OK / TOP)
+    -> Freundlichkeit (BESONDERS / SEHR / )
+    -> Zuverlässigkeit (BESONDERS / SEHR / )
+ADDED
+
+- Add points for evaluating System
+    Zufriedenheit NAJA      10   
+    Zufriedenheit OK        15
+    Zufriedenheit TOP       25
+
+    Freundlichkeit BESONDERS    20
+    Freundlichkeit SEHR         15
+    Freundlichkeit              10
+
+    Zuverlässigkeit BESONDERS   20
+    Zuverlässigkeit SEHR        15
+    Zuverlässigkeit             10
+IN WORK
+
+- Add Anzeigen Views
+
+- Add Sicher bezahlen Eingerichtet 

@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "Remove Ads on kleinanzeigen",
+  "version": "1.0",
+  "description": "Removes ads and lazy-loading images on kleinanzeigen.de",
+  "permissions": [
+    "scripting",
+    "activeTab",
+    "storage"
+  ],
+  "host_permissions": [
+    "https://*.kleinanzeigen.de/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["https://*.kleinanzeigen.de/*"],
+      "js": ["content.js"]
+    }
+  ]
+}
